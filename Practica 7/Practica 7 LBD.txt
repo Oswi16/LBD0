@@ -1,0 +1,5 @@
+select  MAX (num_boletos) from  concierto
+select min (num_boletos) from concierto group by zona
+select count (NombredeBanda) from concierto group by NombredeConcierto
+select COUNT (num_boletos) from concierto group by NombredeBanda having  COUNT ( * ) > 2
+
