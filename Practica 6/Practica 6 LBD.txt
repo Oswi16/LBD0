@@ -1,0 +1,184 @@
+create table concierto(
+num_boletos int,
+Zona char,
+NombredeBanda varchar(255),
+NombredeConcierto varchar(255)
+
+
+
+
+
+)
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'A','Greenday','Wakeup');
+
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200,' B','Franco','No se va');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'C','Pesado','Desde la cantina');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200000,'A','Arrows','Kiss');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Duelo','A viajar');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Rize','LOL');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2400,'B','Aczino','No se aceptan pollos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Redbull','Batalla de Gallos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'A','Nobody','Game');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Morat','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'A','SantaRM','Aceite');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Mc Davo','Mi fortuna');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (7000,'D','Rap','Hands');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (70000,'R','DAY','Natural Actual');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (80000,'F','IMAGINE','WE');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (6000,'G','EMINEM','WAZA UP');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'H','DEMONS SLAYER','Tangiro');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (71000,'I','Muzan','The best');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2000,'E','Arrows','Nature');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (13000,'J','Manuel turizo','Caos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (25000,'L','G2','Caps');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'O','SKT','Faker');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'P','Fnatic','Rekles');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (79000,'Q','H2K','Jankos');
+
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200,' B','Funplux','World');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'C','Banda el limon','Por ti');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200000,'A','Arrows','Nobody');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Duelo','solos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Rize','Lal');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2400,'B','Aczino','No se aceptan gallinas');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Redbull','Batalla de Gallos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'A','Nobody','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Morat','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'A','SantaRM','Aceite');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Mc Davo','Mi fortuna');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (7000,'D','Rap','Hands');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (70000,'R','DAY','Natural Actual');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (80000,'F','IMAGINE','WE');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (6000,'G','EMINEM','WAZA UP');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'H','DEMONS SLAYER','Tangiro');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (71000,'I','Muzan','The best');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2000,'E','Arrows','Nature');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (13000,'J','Manuel turizo','Caos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (25000,'L','G2','Caps');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'O','SKT','Faker');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'P','Fnatic','Rekles');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (79000,'Q','H2K','Jankos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200,' B','Funplux','World');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'C','Banda el limon','Por ti');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200000,'A','Arrows','Nobody');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Duelo','solos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Rize','Lal');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2400,'B','Aczino','No se aceptan gallinas');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Redbull','Batalla de Gallos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'A','Nobody','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Morat','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'A','SantaRM','Aceite');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Mc Davo','Mi fortuna');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (7000,'D','Rap','Hands');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (70000,'R','DAY','Natural Actual');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (80000,'F','IMAGINE','WE');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (6000,'G','EMINEM','WAZA UP');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'H','DEMONS SLAYER','Tangiro');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (71000,'I','Muzan','The best');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2000,'E','Arrows','Nature');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (13000,'J','Manuel turizo','Caos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (25000,'L','G2','Caps');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'O','SKT','Faker');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'P','Fnatic','Rekles');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (79000,'Q','H2K','Jankos');
+
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200,' B','Funplux','World');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'C','Banda el limon','Por ti');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200000,'A','Arrows','Nobody');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Duelo','solos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Rize','Lal');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2400,'B','Aczino','No se aceptan gallinas');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Redbull','Batalla de Gallos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'A','Nobody','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Morat','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'A','SantaRM','Aceite');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Mc Davo','Mi fortuna');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (7000,'D','Rap','Hands');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (70000,'R','DAY','Natural Actual');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (80000,'F','IMAGINE','WE');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (6000,'G','EMINEM','WAZA UP');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'H','DEMONS SLAYER','Tangiro');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (71000,'I','Muzan','The best');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2000,'E','Arrows','Nature');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (13000,'J','Manuel turizo','Caos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (25000,'L','G2','Caps');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'O','SKT','Faker');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'P','Fnatic','Rekles');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (79000,'Q','H2K','Jankos');
+
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200,' B','Funplux','World');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'C','Banda el limon','Por ti');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (200000,'A','Arrows','Nobody');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Duelo','solos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Rize','Lal');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2400,'B','Aczino','No se aceptan gallinas');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (10000,'A','Redbull','Batalla de Gallos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'A','Nobody','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Morat','Hasta aqui');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (20000,'A','SantaRM','Aceite');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (5000,'A','Mc Davo','Mi fortuna');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (7000,'D','Rap','Hands');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (70000,'R','DAY','Natural Actual');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (80000,'F','IMAGINE','WE');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (6000,'G','EMINEM','WAZA UP');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (8000,'H','DEMONS SLAYER','Tangiro');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (71000,'I','Muzan','The best');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (2000,'E','Arrows','Nature');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (13000,'J','Manuel turizo','Caos');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (25000,'L','G2','Caps');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'O','SKT','Faker');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (45000,'P','Fnatic','Rekles');
+INSERT INTO concierto(num_boletos, Zona, NombredeBanda,NombredeConcierto) VALUES (79000,'Q','H2K','Jankos');
+
+UPDATE concierto
+SET Zona = 'A'
+WHERE NombredeBanda = 'Fnatic'
+
+
+UPDATE concierto
+SET NombredeBanda= 'G2'
+WHERE NombredeConcierto = 'Jankos'
+
+UPDATE concierto
+SET num_boletos= 5000
+WHERE NombredeConcierto = 'Batalla de gallos'
+
+UPDATE concierto
+SET NombredeBanda= 'Katy Perry'
+WHERE Zona= 'C'
+
+UPDATE concierto
+SET NombredeConcierto= 'Mata'
+WHERE NombredeBanda = 'SKT'
+
+DELETE FROM concierto
+WHERE num_boletos = 45000
+AND Zona = 'O'
+AND NombredeBanda = 'SKT'
+AND  NombredeConcierto = 'Mata'
+
+DELETE FROM concierto
+WHERE num_boletos = 6000
+AND Zona = 'G'
+AND NombredeBanda = 'EMINEM'
+AND  NombredeConcierto = 'WAZA UP'
+
+DELETE FROM concierto
+WHERE num_boletos = 20000
+AND Zona = 'C'
+AND NombredeBanda = 'Katy Perry'
+AND  NombredeConcierto = 'Desde la cantina'
+
+DELETE FROM concierto
+WHERE num_boletos = 5000
+AND Zona = 'A'
+AND NombredeBanda = 'Duelo'
+AND  NombredeConcierto = 'A viajar'
+
+DELETE FROM concierto
+WHERE num_boletos = 8000
+AND Zona = 'A'
+AND NombredeBanda = 'Nobody'
+AND  NombredeConcierto = 'Game'
+
+
